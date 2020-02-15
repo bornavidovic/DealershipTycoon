@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6654698439167468208
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 62.578606
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 140.1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -153.1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00000004371139
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.6765506e-24
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 6.123234e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: -0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: -0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: -4216859302048453862, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: -0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: 338aa80af75a53f43b31931400a2b8e8,
+        type: 3}
+      propertyPath: m_Name
+      value: HedgeRedIdle
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 338aa80af75a53f43b31931400a2b8e8, type: 3}
